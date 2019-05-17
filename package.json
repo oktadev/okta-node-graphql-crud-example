@@ -1,0 +1,19 @@
+{
+  "name": "node-graphql",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node .",
+    "test": "eslint ."
+  },
+  "keywords": [],
+  "author": "",
+  "license": "Apache-2.0",
+  "dependencies": {
+    "apollo-server": "2.5.0",
+    "eslint": "5.16.0",
+    "graphql": "14.3.0"
+  },
+  "devDependencies": {}
+}
