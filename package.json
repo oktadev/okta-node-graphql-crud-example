@@ -15,10 +15,11 @@
     "@okta/okta-sdk-nodejs": "2.0.0",
     "apollo-server": "2.5.0",
     "dotenv": "8.0.0",
-    "eslint": "5.16.0",
     "graphql": "14.3.0",
     "node-fetch": "2.6.0",
     "uuid": "3.3.2"
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "eslint": "5.16.0"
+  }
 }
