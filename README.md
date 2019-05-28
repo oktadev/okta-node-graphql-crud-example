@@ -34,7 +34,9 @@ Your Okta application should have settings similar to the following:
 
 ![Okta Application Settings](images/okta-app-settings.png)
 
-After creating the application, click **Edit** in the **Client Credentials** section. Change the **Client authentication** to **Use Client Authentication**. This will generate a client secret. Save both the **Client ID** and **Clinet Secret** for later.
+After creating the application, click **Edit** in the **Client Credentials** section. Change the **Client authentication** to **Use Client Authentication**. This will generate a client secret. Save both the **Client ID** and **Client Secret** for later.
+
+![Okta Client Authentication](images/okta-client-authentication.png)
 
 You will also need to create an API token in Okta:
 
