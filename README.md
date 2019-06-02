@@ -27,7 +27,7 @@ You will need to create an application in Okta:
 
 * Log in to your Okta account, then navigate to **Applications** and click the **Add Application** button
 * Select **Native** and click **Next**
-* Give your application a name (e.g. "GraphQL Express")
+* Give your application a name (e.g. "Node GraphQL")
 * Check the box for **Resource Owner Password**, then click **Done**
 
 Your Okta application should have settings similar to the following:
@@ -41,7 +41,7 @@ After creating the application, click **Edit** in the **Client Credentials** sec
 You will also need to create an API token in Okta:
 
 * Log in to your Okta account, then navigate to **API > Tokens** and click the **Create Token** button
-* Enter a name that will help you remember what this is used for (e.g. "GraphQL Express")
+* Enter a name that will help you remember what this is used for (e.g. "Node GraphQL")
 * Save the provided **token value** for later
   * This will only be displayed once. If you lose it, you will need to create another API token
 
