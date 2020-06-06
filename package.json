@@ -13,7 +13,7 @@
   "dependencies": {
     "@okta/jwt-verifier": "0.0.15",
     "@okta/okta-sdk-nodejs": "2.0.0",
-    "apollo-server": "2.5.0",
+    "apollo-server": "2.14.2",
     "dotenv": "8.0.0",
     "graphql": "14.3.0",
     "node-fetch": "2.6.0",
