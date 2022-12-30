@@ -12,7 +12,7 @@
   "license": "Apache-2.0",
   "dependencies": {
     "@okta/jwt-verifier": "0.0.15",
-    "@okta/okta-sdk-nodejs": "2.0.0",
+    "@okta/okta-sdk-nodejs": "6.6.0",
     "apollo-server": "2.5.0",
     "dotenv": "8.0.0",
     "graphql": "14.3.0",
